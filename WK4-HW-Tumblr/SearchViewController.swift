@@ -10,10 +10,16 @@ import UIKit
 
 class SearchViewController: UIViewController {
 
+    @IBOutlet weak var searchFeed: UIImageView!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+    }
+    
+    override func viewWillAppear(animated: Bool) {
+        
     }
 
     override func didReceiveMemoryWarning() {
