@@ -1,6 +1,6 @@
 # WK3-Mailbox
 
-This is an iOS app mimicking the Mailbox app.
+This is an iOS app mimicking the Tumblr app.
 
 Time spent: 6 hours
 
